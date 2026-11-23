@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+**/__pycache__/
+**/.venv/
+**/data/
+*.sqlite3
+*.pyc
+*.lock
+*.tmp
+.DS_Store

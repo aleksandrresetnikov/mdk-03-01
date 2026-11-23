@@ -1,0 +1,6 @@
+**/bin/
+**/obj/
+data/
+*.lock
+*.tmp
+.DS_Store
